@@ -1,0 +1,126 @@
+package OOP_Java.PLaT_W11;
+
+public interface Interface_PLaT_W11 {
+    /**
+     *
+     * Created by Adil Myktybek
+     * on 24.11.2020, 11:22
+     *
+     */
+    void add_to_arrayList(abstract_PLaT_W11 abs);
+// -------------------------------
+    void solve_1_main();
+    void solve_1_1();
+    void solve_1_2();
+    void solve_1_3();
+    void solve_1_4();
+    void solve_1_5();
+    void solve_1_6();
+    void solve_1_7();
+// -------------------------------
+    void solve_2_main();
+    void solve_2_1();
+    void solve_2_2();
+    void solve_2_3();
+    void solve_2_4();
+    void solve_2_5();
+    void solve_2_6();
+// -------------------------------
+    void solve_3_main();
+    void solve_3_1();
+    void solve_3_2();
+    void solve_3_3();
+// -------------------------------
+    void solve_4_main();
+    void solve_4_1();
+    void solve_4_2();
+// -------------------------------
+    void solve_5_main();
+    void solve_5_1();
+    void solve_5_2();
+    void solve_5_3();
+    void solve_5_4();
+    void solve_5_5();
+    void solve_5_6();
+    void solve_5_7();
+    void solve_5_8();
+    void solve_5_9();
+// -------------------------------
+    void solve_6_main();
+    void solve_6_1();
+    void solve_6_2();
+    void solve_6_3();
+    void solve_6_4();
+    void solve_6_5();
+    void solve_6_6();
+    void solve_6_7();
+// -------------------------------
+    void solve_7_main();
+    void solve_7_1();
+    void solve_7_2();
+    void solve_7_3();
+    void solve_7_4();
+    void solve_7_5();
+    void solve_7_6();
+    void solve_7_7();
+    void solve_7_8();
+// -------------------------------
+    void solve_9_main();
+    void solve_9_1();
+    void solve_9_2();
+    void solve_9_3();
+    void solve_9_4();
+    void solve_9_5();
+    void solve_9_6();
+    void solve_9_7();
+    void solve_9_8();
+    void solve_9_9();
+    void solve_9_10();
+// -------------------------------
+    void solve_10_main();
+    void solve_10_1();
+    void solve_10_2();
+    void solve_10_3();
+    void solve_10_4();
+    void solve_10_5();
+    void solve_10_6();
+// -------------------------------
+    void solve_11_main();
+    void solve_11_1();
+    void solve_11_2();
+    void solve_11_3();
+// -------------------------------
+    void solve_12_main();
+    void solve_12_1();
+    void solve_12_2();
+    void solve_12_3();
+    void solve_12_4();
+    void solve_12_5();
+    void solve_12_6();
+    void solve_12_7();
+    void solve_12_8();
+    void solve_12_9();
+// -------------------------------
+    void solve_13_main();
+    void solve_13_1();
+    void solve_13_2();
+    void solve_13_3();
+    void solve_13_4();
+    void solve_13_5();
+    void solve_13_6();
+    void solve_13_7();
+    void solve_13_8();
+// -------------------------------
+    void solve_14_main();
+    void solve_14_1();
+    void solve_14_2();
+    void solve_14_3();
+    void solve_14_4();
+// -------------------------------
+    void solve_15_main();
+    void solve_15_1();
+    void solve_15_2();
+    void solve_15_3();
+    void solve_15_4();
+// -------------------------------
+}
