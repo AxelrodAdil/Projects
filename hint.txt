@@ -1,6 +1,6 @@
 "git push -u origin _branch_name_   ...    ~git branch~" 
 
-git remote add origin git@github.com:AxelrodAdil/Introductory_assignment.git
+git remote add origin git@github.com:AxelrodAdil/{gitFolder}.git
 git branch -M main
 git push -u origin main
 
