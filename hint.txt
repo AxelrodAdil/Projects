@@ -3,3 +3,8 @@
 git remote add origin git@github.com:AxelrodAdil/Introductory_assignment.git
 git branch -M main
 git push -u origin main
+
+
+#if ![rejected] master -> master (fetch first)
+git pull --rebase origin master
+git push origin master
