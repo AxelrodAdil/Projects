@@ -4,7 +4,7 @@ import java.util.Scanner;
  * @Author Adil
  * @create 04.07.2021 22:25
  */
-public class A58 {
+public class A058 {
     static Scanner sc = new Scanner(System.in);
 
     static void solve(){
