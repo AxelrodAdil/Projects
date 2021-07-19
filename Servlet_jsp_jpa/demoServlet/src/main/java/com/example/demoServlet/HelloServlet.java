@@ -4,11 +4,12 @@ import java.io.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 
-@WebServlet(name = "helloServlet", value = "/hello-servlet")
+@WebServlet(name = "helloServlet", value = "/hello-servlet") // annotation
 public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
+        System.out.println("Life Cycle...");
         message = "Hello World!";
     }
 
