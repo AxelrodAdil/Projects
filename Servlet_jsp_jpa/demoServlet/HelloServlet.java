@@ -9,6 +9,7 @@ public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
+        System.out.println("\n");
         System.out.println("Life Cycle...");
         message = "Hello World!";
     }
