@@ -46,25 +46,6 @@ public class main {
         System.out.println("\n");
     }
 
-    /*static void matrixMulti(double[][]a, double[][]b) {
-        double[][] resultMatrix = new double[a.length][b[0].length];
-        for (int i = 0; i < a.length; i++) {
-            for (int j = 0; j < b[0].length; j++) {
-                for (int k = 0; k < b.length; k++) {
-                    resultMatrix[i][j] += a[i][k] * b[k][j];
-                }
-            }
-        }
-
-        System.out.println("\n---------------------------------------------------\nE-matrix: ");
-        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 4; j++) {
-                System.out.print(resultMatrix[i][j] + "\t");
-            }
-            System.out.println();
-        }
-    }*/
-
     public static void main(String[] args) {
         double[][] matrix = new double[][]{
                 {14.4, -5.3, 14.3, -12.7},
@@ -113,10 +94,6 @@ public class main {
         }
         System.out.println("\n---------------------------------------------------\n\nInverse Matrix after round: ");
         printArrayList(arrayList_1);
-
-
-        //double[][] allied = createMatrix(arrayList_2);
-        //matrixMulti(matrix, allied);
     }
 
     static double[][] createMatrix(ArrayList<Double> arrayList){
